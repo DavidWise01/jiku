@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-JIKU",
+  "name": "軸 JIKU · JIKU",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦軸 JIKU · JIKU:jiku:50d797⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "50d7970cff12e7b72fb39a0778d4162d3e3b58394c7788160219030b016934f9",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
